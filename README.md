@@ -1,5 +1,20 @@
-# Edumanage_v2
-Production-grade Education Management System built using Spring Boot, PostgreSQL, JWT Authentication, Docker and Swagger.
+# EduManage v2
+
+A production-grade Education Management System.
+
+## Tech Stack
+
+- Java
+- Spring Boot
+- PostgreSQL
+- Spring Security
+- JWT
+- Swagger
+- Docker
+
+## Current Status
+
+Planning Phase
 
 ## Features
 
@@ -16,20 +31,3 @@ Production-grade Education Management System built using Spring Boot, PostgreSQL
 ### Student
 - View Attendance
 - Submit Assignments
-- View Notices
-
-## Tech Stack
-
-- Java 21
-- Spring Boot
-- PostgreSQL
-- Spring Security
-- JWT
-- Swagger
-- Docker
-- JUnit
-- Mockito
-
-## Project Status
-
-Planning Phase
