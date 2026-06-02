@@ -1,0 +1,13 @@
+# API Design
+
+POST /auth/register
+
+POST /auth/login
+
+GET /courses
+
+POST /courses
+
+PUT /courses/{id}
+
+DELETE /courses/{id}

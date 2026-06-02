@@ -1,0 +1,28 @@
+# Database Design
+
+## users
+
+id
+username
+email
+password
+role
+
+## students
+
+id
+user_id
+roll_number
+department
+
+## teachers
+
+id
+user_id
+specialization
+
+## courses
+
+id
+course_name
+teacher_id

@@ -1,0 +1,19 @@
+# EduManage v2 Requirements
+
+## Roles
+
+### Admin
+- Create Teacher
+- Delete Teacher
+- Create Course
+- Create Notice
+
+### Teacher
+- Mark Attendance
+- Create Assignment
+- Create Quiz
+
+### Student
+- View Attendance
+- Submit Assignment
+- View Notices
